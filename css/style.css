@@ -1,5 +1,5 @@
-body
-  {font-size: 14px;
+body {
+  font-size: 14px;
 }
 
 /*for navigation*/
@@ -9,6 +9,7 @@ nav {
   margin-top: -10px;
   position: fixed;
   width: 100%;
+}
 
 /*for body*/
 section {
